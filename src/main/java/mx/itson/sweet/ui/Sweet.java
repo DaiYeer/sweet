@@ -11,7 +11,7 @@ import mx.itson.sweet.business.Operacion;
  * @author castr
  */
 public class Sweet {
-
+//Esto es una prueba para GitHub
     public static void main(String[] args) {
        
         int[] numero = {4,78,2,90,156,34,81,16,9,24};
