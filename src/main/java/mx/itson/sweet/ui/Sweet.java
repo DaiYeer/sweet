@@ -15,7 +15,7 @@ public class Sweet {
     public static void main(String[] args) {
        
         int[] numero = {4,78,2,90,156,34,81,16,9,24};
-        
+        //Subido al OptoGato:)
         Operacion op = new Operacion();
         int numeroMayor = op.obtenerNumeroMayor(numero);
         System.out.println("El número mayor es: " + numeroMayor);
